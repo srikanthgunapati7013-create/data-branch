@@ -1,1 +1,8 @@
 this is the new branch
+git --version	Check Git version
+git config --list	View Git configuration
+git status	Check file status
+git init	Create a Git repository
+git help	Get Git help
+git log	View commit history
+git diff	Check code changes
