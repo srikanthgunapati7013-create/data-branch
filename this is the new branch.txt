@@ -7,3 +7,5 @@ git help	Get Git help
 git log	View commit history
 git diff	Check code changes
  these are the versions
+
+this version are useful foor git versions 
